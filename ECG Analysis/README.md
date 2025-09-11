@@ -1,4 +1,4 @@
-# AI in Biomedicine – Practical Lesson 1
+# ECG Signals Analysis
 
 This repository contains materials related to the *AI in Biomedicine* course at Politecnico di Milano.  
 The session introduces fundamental concepts of ECG signal processing and provides hands-on exercises for atrial fibrillation (AF) detection using machine learning methods.

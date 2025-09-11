@@ -21,7 +21,7 @@ The session introduces fundamental concepts of ECG signal processing and provide
    - Risks: stroke, myocardial degeneration, increased mortality.  
    - ECG markers: chaotic atrial depolarization, disappearance of P-waves (f-waves), irregular R-R intervals.  
 
-3. **Practical Session Objectives**  
+3. **Objectives**  
    - Work with short 12-lead ECG signals.  
    - Learn preprocessing, feature extraction, and feature transformation for AF detection.  
 
@@ -36,19 +36,19 @@ The session introduces fundamental concepts of ECG signal processing and provide
 
 ---
 
-## 🧩 Exercises
+## 🧩 Tasks
 
-### **Exercise I – Data Loading and Analysis**
+### **1. Data Loading and Analysis**
 - Load `.hea` and `.mat` files.  
 - Plot label distribution (AF vs. NSR).  
 - Plot signal length distribution.  
 - Visualize sample ECG signals from each class.  
 
-### **Exercise II – Feature Extraction**
+### **2. Feature Extraction**
 - Extract rhythm-based and morphological features.  
 - Examples: P-wave presence, R-R interval regularity.  
 
-### **Exercise III – Feature Transformation**
+### **3. Feature Transformation**
 - Adapt data types for machine learning models.  
 - Handle missing data and outliers.  
 - Apply feature scaling and normalization.  
